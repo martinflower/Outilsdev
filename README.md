@@ -12,4 +12,8 @@ https://getcomposer.org/download/
 https://code.visualstudio.com/download
     visual code studio
 
+https://git-scm.com/
+    pour utiliser les commandes Github 
 
+https://conemu.github.io/
+    Emulateur de console de commande (Cmd , powershell , autre ...)
